@@ -1,2 +1,2 @@
-# social_media_feedback_analyzer
 This repository contains a JSON file and supporting resources for a social media feedback analysis workflow built with Make.com and DeepSeek AI.
+Note: This repository is intended for demonstration purposes. Because I don’t have API access to Instagram, Telegram, or Twitter, this workflow replaces actual social media data with Google Sheets as the input source. You can simulate incoming comments by adding rows in Google Sheets. The workflow still demonstrates text cleaning, sentiment analysis, categorization, and routing exactly as it would with live social media data.
